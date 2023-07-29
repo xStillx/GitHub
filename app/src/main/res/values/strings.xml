@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="enter_name">Введите запрос</string>
+</resources>
